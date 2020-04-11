@@ -1,0 +1,58 @@
+html, body {
+    height: 100%;
+    margin : 0;
+    padding : 0;
+}
+
+body {
+    margin : 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;        
+}
+
+svg {
+    height : 80vh;
+}
+
+/* svg #right-cactus{
+    
+}
+
+svg #right-body {
+
+}
+
+svg #right-eyes {
+
+}
+
+svg #right-pot{
+
+}
+
+svg #left-cactus{
+  
+}
+
+svg #line{
+
+}
+
+svg #left-body {
+    
+}
+
+svg #left-pot {
+
+}
+
+svg #left-eyes{
+
+}
+
+svg #left-mounth{
+   
+} */
+
+
